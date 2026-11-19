@@ -1,0 +1,17 @@
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+/android/.gradle/
+/android/local.properties
+/.idea/
+/scaffold_tmp/
+/android_manual_backup/
+/gradle-9.1.0-bin.zip
+/emulator_preview.png
+/ui_preview.png
+/android/gradle/avg-root.cer
+/android/gradle/gradle-truststore.jks
